@@ -5,3 +5,6 @@ library(lubridate)
 
 players_data <- read_csv("players.csv")
 sessions_data <- read_csv("sessions.csv")
+
+head(players_data)
+head(sessions_data)
